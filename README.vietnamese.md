@@ -203,15 +203,15 @@
 
 <br/><br/>
 
-# `1. Project Structure Practices`
+# `1. Cấu trúc của 1 dự án`
 
-## ![✔] 1.1 Structure your solution by components
+## ![✔] 1.1 Tổ chức dưới dạng các thành phần
 
-**TL;DR:** The worst large applications pitfall is maintaining a huge code base with hundreds of dependencies - such a monolith slows down developers as they try to incorporate new features. Instead, partition your code into components, each gets its folder or a dedicated codebase, and ensure that each unit is kept small and simple. Visit 'Read More' below to see examples of correct project structure
+**TL;DR:** Những điều tồi tệ nếu ứng dụng của bạn quá lớn là khi sửa chữa, nâng cấp 1 lượng code base lớn với hàng trăm dependencies - làm như vậy bạn rất khó để tích hợp hoặc phát triển các tính năng mới. Thay vào đó, bạn có thể chia nhỏ code thành từng component, mỗi component sẽ nằm trong 1 folder hoặc codebase, và để đảm bảo rằng mỗi component là 1 đơn vị nhỏ và đơn giản. Bạn hãy click 'Xem thêm' bên dưới để xem ví dụ về project structure.
 
-**Otherwise:** When developers who code new features struggle to realize the impact of their change and fear to break other dependent components - deployments become slower and riskier. It's also considered harder to scale-out when all the business units are not separated
+**Otherwise:** Khi lập trình viên code tính năng mới họ phải nắm được sự thay đổi đó có làm ảnh hưởng đến sự phụ thuộc giữa các thành phần khác - việc triển khai sẽ trở lên chậm và rủi ro hơn. Nó cũng khó mỏ rộng quy mô hơn nếu các đơn vị nghiệp vụ không được tách biệt.
 
-🔗 [**Read More: structure by components**](./sections/projectstructre/breakintcomponents.md)
+🔗 [**Xem thêm: Cấu trúc dưới dạng các components**](./sections/projectstructre/breakintcomponents.md)
 
 <br/><br/>
 
