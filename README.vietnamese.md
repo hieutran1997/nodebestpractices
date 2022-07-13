@@ -39,7 +39,7 @@
     <a href="#1-project-structure-practices">1. Cấu trúc của 1 dự án (5)</a>
   </summary>
 
-&emsp;&emsp;[1.1 Giải pháp của bạn sẽ bao gồm các thành phần `#strategic`](#-11-structure-your-solution-by-components)</br>
+&emsp;&emsp;[1.1 Giải pháp của bạn sẽ bao gồm các thành phần `#strategic`](#-11-Tổ-chức-dưới-dạng-các-thành-phần)</br>
 &emsp;&emsp;[1.2 Tạo các lớp cho các thành phần, giữ cho cấu trúc web luôn thống nhất `#strategic`](#-12-layer-your-components-keep-the-web-layer-within-its-boundaries)</br>
 &emsp;&emsp;[1.3 Tạo các tiện ích chung dưới dạng gói của npm](#-13-wrap-common-utilities-as-npm-packages)</br>
 &emsp;&emsp;[1.4 Tách biệt 'app' và 'server'](#-14-separate-express-app-and-server)</br>
